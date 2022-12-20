@@ -1,0 +1,28 @@
+.modal a{
+	margin-left: 20px;
+}
+
+.pro-picture{
+	width: 35px;
+	height: 35px;
+}
+
+.action-bar ul{
+	margin: 0px;
+	padding: 0px;
+}
+
+.action-bar ul li{
+	list-style: none;
+	display: inline;
+	margin: 0px 3px;
+}
+
+.action-bar .fa-edit{
+	color: green;
+}
+
+.action-bar .fa-trash{
+	color: red;
+}
+
